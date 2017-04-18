@@ -10,3 +10,7 @@
 
 ### Somewhat scatterbrained
   I don't know if attention deficit disorder is really a thing or not, but at times I can find myself having trouble getting organized.  I don't believe this to be related at all to my general intelligence, but rather that my mind seems to dart around from one subject to another very quickly if it is not being challenged by whatever it is that I'm doing right at the moment.  It can make my life challenging at times, but I have no problem staying entertained and I supposed it helps me with multitasking.  I theorize however that if I could concentrate better I probably would get a lot more accomplished. 
+
+### Contact me.
+Any time you like, you may email me at terry.lyn.thompson@gmail.com 
+**Thank You**
