@@ -1,16 +1,13 @@
-## The importance of self development
+## The blog creation process
 
-  The difference between a person who is a child, and one who is an adult is that an adult need not be dependent upon someone else.  For a person to make a transition from child to adult, the idea has to be absorbed that one should seek help from others the least amount possible, and develop ourselves to the point of not needing any help.  It's about taking responsibility.  
-
-  Unfortunately, during the learning process a person is totally dependent on external sources of knowledge.  In this day and age, it is a miracle that we have access to the information superhighway known as the internet, from which we can draw much more massive quantities of knowledge than ever existed before.  In some cases though, communication between human beings is far superior, and far more effective than communication with machines, and therefore I am grateful to have access to the teachings of others.  
-
-### Blogging
-  Is a new experience for me.  I'm very effective at communicating with words when I have time to think them out, and so it's kind of surprising that I never got into blogging before.  This is a newfound superpower for me.  I have so many things to say, I don't even really know where to start. 
+  There seems to be many ways of creating a blog, but the process was at first a bit cloudy through the learn curriculum.  Clicking on the "Blog" tab of the page opens a set of options:  "Blog Dashboard", "Blog Settings", "Your Blog", and "Magazine".  When "Blog Dashboard" is selected, it has topics for a blog, but no instructions for how to create a blog.  Rather, it asks you to enter a link to your already existing blog post.  When we select "Blog Settings", it simply provides a field for updating the url of an already existing blog.  When "Your Blog" is clicked from the menu, it opens a blank page.  I assume it would open up a page to your blog if you already had one.  Finally, when one selects the "Magazine" option from the menu, it just opens up a page with links to blogs that others have created.  I had to research on my own to figure out that a blog could be created through #Github Pages# located at the url https://pages.github.com/ .
+  From there, you can use Jekyll to style the page.   
 
 
-### Somewhat scatterbrained
-  I don't know if attention deficit disorder is really a thing or not, but at times I can find myself having trouble getting organized.  I don't believe this to be related at all to my general intelligence, but rather that my mind seems to dart around from one subject to another very quickly if it is not being challenged by whatever it is that I'm doing right at the moment.  It can make my life challenging at times, but I have no problem staying entertained and I supposed it helps me with multitasking.  I theorize however that if I could concentrate better I probably would get a lot more accomplished. 
+### Creating the Command Line Interface
+  The process was straight forward, and this is where I began the project from, because like Avi suggested, it seems to be the simplest point of entry.  Once you have established what the user experience should be like, the rest of the code just kind of takes shape almost on its own.  
 
-### Contact me.
-Any time you like, you may email me at terry.lyn.thompson@gmail.com 
+### Find the source
+  It was pretty simple to do a Google search and find multiple pages that offered global exchance rates.  I sought one out for a table that I could iterate over in order to list and retrieve the necessary data requested by the user.  Beyond this, it was simply a matter of storing each currency as a unique object containing data relevant to that specific unit of currency.  
+  
 **Thank You**
